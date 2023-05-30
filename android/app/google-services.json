@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761735389071",
+    "project_id": "therapy-app-7918c",
+    "storage_bucket": "therapy-app-7918c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761735389071:android:2141e5cfe34727fcbb75fa",
+        "android_client_info": {
+          "package_name": "com.example.terapy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761735389071-jcdm169cotts8teknmfj4cao4d3gb3rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5cUq_MHzb_9JvLrpynrcxLy-KIC-EOYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761735389071-jcdm169cotts8teknmfj4cao4d3gb3rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
